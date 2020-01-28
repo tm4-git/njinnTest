@@ -1,3 +1,2 @@
-class HelloWorld(Object):
-  def sayHello(name):
-    print('Hello ' + name)
+def sayHello(name):
+  print('Hello ' + name)
